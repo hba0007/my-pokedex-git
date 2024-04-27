@@ -1,1 +1,1 @@
-# my-pokedex-git
+components.1 # my-pokedex-git
